@@ -22,6 +22,6 @@ Muestra el detalle en `lstPedido` y los resultados en formato `RD$ 0.00` en `lbl
 Con el caso de prueba (María Pérez frecuente; Sándwich precio 180, cantidad 2, grande = 410.00; Jugo precio 120, cantidad 1, porción extra = 150.00; para llevar): subtotal `RD$ 560.00`, descuento `RD$ 56.00`, empaque `RD$ 20.00`, base `RD$ 524.00`, ITBIS `RD$ 94.32` y total `RD$ 618.32`.
 
 ## 6. Capturas de pantalla
-![Captura 1](captura1..jpg)
-![Captura 2](captura2..jpg)
+![Captura 1](captura1.jpg)
+![Captura 2](captura2.jpg)
 ![Captura 3](captura3.jpg)

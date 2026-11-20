@@ -20,3 +20,8 @@ Aplicación de escritorio en C# (Windows Forms) con el formulario `frmPedidos` p
 ## 5. Salida
 Muestra el detalle en `lstPedido` y los resultados en formato `RD$ 0.00` en `lblSubtotal`, `lblDescuento`, `lblEmpaque`, `lblItbis` y `lblTotal`.
 Con el caso de prueba (María Pérez frecuente; Sándwich precio 180, cantidad 2, grande = 410.00; Jugo precio 120, cantidad 1, porción extra = 150.00; para llevar): subtotal `RD$ 560.00`, descuento `RD$ 56.00`, empaque `RD$ 20.00`, base `RD$ 524.00`, ITBIS `RD$ 94.32` y total `RD$ 618.32`.
+
+## 6. Capturas de pantalla
+![Captura 1](Captura1..jpg)
+![Captura 2](Captura2..jpg)
+![Captura 3](Captura3.jpg)
